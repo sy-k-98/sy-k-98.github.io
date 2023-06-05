@@ -23,8 +23,8 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     # twitter:         <username>
-    github:          <username>
-    email:           <mail@domain.tld>
+    github:          
+    email:           
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
