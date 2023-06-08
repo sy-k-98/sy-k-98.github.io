@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: Blog
-    url: /blog/
+#  - title: Blog
+#    url: /blog/
 #  - title: Study
 #    url: /study/
 #  - title: ETC
@@ -71,11 +71,11 @@ menu:
 copyright: © 2021. All rights reserved.
 
 # Format of the permalinks
-permalink: /:categories/:year-:month-:day-:title/
+permalink: /:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
-paginate_path: /:num/
+paginate_path: /page:num/
 
 
 # Theme
