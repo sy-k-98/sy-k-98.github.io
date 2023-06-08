@@ -2,7 +2,7 @@
 email:
   name: Email
   icon: icon-mail
-  prepend: 'mailto:sb05220@gmail.com'
+  prepend: 'mailto:'
 # amazon:
 #   name: Amazon
 #   icon: icon-amazon
@@ -104,7 +104,7 @@ email:
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/sy-k-98"
+  prepend: "https://github.com/"
 # npm:
 #   name: npm
 #   icon: icon-npm
